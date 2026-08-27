@@ -1,3 +1,15 @@
+[requirements.txt](https://github.com/user-
+pandas
+networkx
+matplotlib
+folium
+geopy
+streamlit
+plotly
+flask
+bcrypt
+attachments/files/31531249/require[requirements.txt](https://github.com/user-attachments/files/31531310/requirements.txt)
+ments.txt)
 [README.md](https://github.com/user-attachments/files/31531170/README.md)
 # National Electricity Grid Network Analysis, GridCare-Lite & ClinicCare-Lite
 
@@ -138,6 +150,7 @@ ClinicCare-Lite is strictly an **administrative and communication** system. It d
 diagnose patients, interpret symptoms, calculate risk, recommend treatment, or replace
 clinical judgement — this boundary is a compulsory project requirement maintained throughout
 the codebase.
+
 
 ## License
 
