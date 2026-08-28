@@ -1,0 +1,6 @@
+Substation,Components_Before,Components_After,Fragments_Network
+Mallam Substation,1,1,False
+Kumasi Central Substation,1,4,True
+Cape Coast Substation,1,3,True
+Achimota Substation,1,2,True
+Tema Substation,1,2,True
