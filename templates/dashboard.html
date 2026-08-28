@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GridCare-Lite — Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <nav>
+        <a href="{{ url_for('dashboard') }}">Dashboard</a>
+        <a href="{{ url_for('outages') }}">Outages</a>
+        <a href="{{ url_for('new_complaint') }}">Log Complaint</a>
+        <a href="{{ url_for('reports') }}">Reports</a>
+        <a href="{{ url_for('logout') }}">Log Out</a>
+    </nav>
+    <h1>Welcome to GridCare-Lite</h1>
+    <p>Base dashboard — role-specific content goes here.</p>
+</body>
+</html>
