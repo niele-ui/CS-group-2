@@ -1,16 +1,8 @@
 """
-Week 3 - Part 7 (Ethan Elom Koku Agbenu, with Afia): Testing Module Interactions
+Week 3 - Part 7 (Ethan Elom Koku Agbenu, with Niele): Testing Module Interactions
 
 Smoke and integration tests for the GridCare-Lite outage-to-resolution
 workflow (workflow.py, Part 5).
-
-Unlike test_week3_as_received.py, this suite builds its database from the
-ACTUAL gridcare_lite/db_schema.sql used elsewhere in the repo, rather than a
-simplified ad-hoc schema. That distinction matters: the ad-hoc version
-passed 2/2 tests while hiding three real integration bugs (see
-WEEK3_EVALUATION.md). Testing "module interactions" only means something if
-the modules under test are talking to the actual schema the rest of the
-project uses.
 
 9 test cases, matching the count stated in the Week 3 submission doc:
     1.  test_outage_creation
