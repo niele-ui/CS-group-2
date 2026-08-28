@@ -27,7 +27,7 @@ review management for a clinic).
 | Antipas Malual Mabeny | Network algorithms — shortest path, connectivity, centrality, N-1 contingency |
 | Diamond Obrempong Owusu Sekyere | Advanced EDA — distributions, connectivity heatmap, capacity utilization |
 | Niele Afia Nyamekye | GridCare-Lite & ClinicCare-Lite — application build, both workflows |
-| Ethan Elom Koku Agbenu | Testing & report compilation |
+| Ethan Elom Koku Agbenu | Testing & visualisation specialist |
 
 ## Repository Structure
 
