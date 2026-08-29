@@ -10,10 +10,10 @@ CS 112 — Computer Programming for CS | Final Course Project | Summer 2026 | As
 
 | Name | Student ID |
 |---|---|
-| Antipas Malual Mabeny | [fill in] |
-| Diamond Obrempong Owusu Sekyere | [fill in] |
-| Niele Afia Nyamekye | [fill in] |
-| Ethan Elom Koku Agbenu | [fill in] |
+| Antipas Malual Mabeny | 12532028 |
+| Diamond Obrempong Owusu Sekyere |99422029|
+| Niele Afia Nyamekye | 70182029|
+| Ethan Elom Koku Agbenu | 47782029 |
 
 ## What Each Component Does
 
